@@ -1,0 +1,56 @@
+
+
+===================================================================================
+for criteria when we take depth_best1 as parameter for given data set
+Nodes and leafs: 
+(1301, 651)
+depth best1 :  15
+Mean Square Error is:  1934.06890919
+Score is : 0.999483925495
+Order of importance of features (Lowest First)
+[5 3 4 6 9 2 8 0 1 7]
+Max Feature is : 10
+No of Feature is : 10
+
+
+===================================================================================
+for criteria when we take min_impurity_decrease as parameter for given data set
+Nodes and leafs: 
+(809, 405)
+ min impurity decrease :  49
+Mean Square Error is:  4034.13274814
+Score is : 0.99892355797
+Order of importance of features (Lowest First)
+[3 5 6 4 9 2 0 8 1 7]
+Max Feature is : 10
+No of Feature is : 10
+
+
+===================================================================================
+for criteria when we take depth_best2 as parameter for given data set
+Nodes and leafs:
+(115, 58)
+depth best2 : 6
+Mean Square Error is:  316691.319152
+Score is : 0.91549612574
+Order of importance of features (Lowest First)
+[5 3 4 6 9 2 8 0 1 7]
+Max Feature is : 10
+No of Feature is : 10
+
+
+===================================================================================
+Errors in all 3 types are : [   1934.06890919    4034.13274814  316691.31915182]
+Errors multiplied by no. of nodes in all 3 types are : [2516223.65085825, 3263613.393243654, 36419501.70245986]
+
+
+===================================================================================
+For case two i.e. edited values for the months taking depth_best2 parameter:
+Nodes and leafs:
+(115, 58)
+Mean Square Errors is:  334406.431911
+Score is : 0.910769139017
+Order of importance of features (Lowest First)
+[5 3 4 2 6 9 8 0 1 7]
+Max Feature is : 10
+No of Feature is : 10

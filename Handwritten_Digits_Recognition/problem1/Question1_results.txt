@@ -1,0 +1,28 @@
+Using Covariance matrix obtained from train data
+The 2x2 Confusion Matrix for the case when Both the classes have Independent covariance matrices is : 
+[[ 106.   49.]
+ [  27.  151.]]
+misclassification rates
+31.6129032258
+15.1685393258
+Using Same Covariance Matrix for Both the class weighted sum
+The 2x2 Confusion Matrix for the case when Both the classes have Same covariance matrices weighted sum is : 
+[[ 134.   21.]
+ [  27.  151.]]
+Missclassification rates
+13.5483870968
+15.1685393258
+Using Same Covariance Matrix for Both the class equal to overall covariance
+The 2x2 Confusion Matrix for the case when Both the classes have Same covariance matrices equal to overall covariance is : 
+[[ 136.   19.]
+ [  28.  150.]]
+Missclassification rates
+12.2580645161
+15.7303370787
+Using Identity as Covariance Matrix for Both class
+The 2x2 Confusion Matrix for the case when Both the classes have Same covariance matrix equal to Identity Matrix is : 
+[[ 133.   22.]
+ [  40.  138.]]
+Missclassification rates
+14.1935483871
+22.4719101124

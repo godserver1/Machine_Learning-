@@ -1,0 +1,8 @@
+No of nodes : 33
+No of leafs : 17
+Confusion Matrix[0][0] : 28
+Confusion Matrix[0][1] : 4
+Confusion Matrix[1][0] : 5
+Confusion Matrix[1][1] : 20
+Missclassification rate of class 1: 12 % 
+Missclassification rate of class 2: 20 % 

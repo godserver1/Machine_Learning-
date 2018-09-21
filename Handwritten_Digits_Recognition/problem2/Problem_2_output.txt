@@ -1,0 +1,24 @@
+[[ 0.10831131  0.10758079]
+ [ 0.10758079  7.09661441]]
+[[ 1.04424178  0.58246437]
+ [ 0.58246437  1.28875868]]
+0.0
+0.0
+The 2x2 Confusion Matrix for the case when Both the classes have Independent covariance matrices is : 
+[[ 50.   0.]
+ [  0.  40.]]
+6.0
+0.0
+The 2x2 Confusion Matrix for the case when Both the classes have Equal diagonal Covariance matrices of equal variation is : 
+[[ 47.   3.]
+ [  0.  40.]]
+2.0
+0.0
+The 2x2 Confusion Matrix for the case when Both the classes have Equal diagonal Covariance matrices of unequal variation is : 
+[[ 49.   1.]
+ [  0.  40.]]
+0.0
+2.5
+The 2x2 Confusion Matrix for the case when Both the classes have Arbitrary covariances shared by both classes is : 
+[[ 50.   0.]
+ [  1.  39.]]
